@@ -1,128 +1,486 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T01:28:17.615Z" agent="5.0 (X11)" etag="P1V8Sn2c0RQ9E_Tw4xC8" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T02:37:12.357Z" agent="5.0 (X11)" etag="fuaWPUxJTn7KPSwkZHBZ" version="14.1.2" type="github">
   <diagram id="NNe8LNXQQ6C9CLvB5UxB" name="Page-1">
-    <mxGraphModel dx="1989" dy="2309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-4" value="&lt;h1 align=&quot;left&quot;&gt;Special Building Industries&lt;br&gt;&lt;/h1&gt;&lt;p align=&quot;left&quot;&gt;Industries that operate as a variable holder and player UI rather than an actual industry.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry y="10" width="260" height="120" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-4" value="&lt;h1 align=&quot;left&quot;&gt;Special Industries&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="10" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-5" value="Market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="160" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-5" value="Market" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-6" value="Stock Exchange" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="280" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-6" value="Stock Exchange" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-7" value="Town/City Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="400" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-7" value="Town/City Hall" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-8" value="National Capitol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="520" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-8" value="National Capitol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-9" value="Construction Yard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="640" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-9" value="Construction Yard" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-12" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="200" width="120" height="80" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-12" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="320" width="120" height="80" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-13" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="440" width="120" height="80" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-14" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="560" width="120" height="80" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="680" width="120" height="80" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-17" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="1190" as="sourcePoint" />
-            <mxPoint x="280" as="targetPoint" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=10;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;elbow=vertical;jumpStyle=sharp;endArrow=classicThin;endFill=1;startSize=3;endSize=3;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-18" target="WeysCJk-akAu1vtO7Xqt-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-18" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=10;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=10;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=classicThin;endFill=1;startSize=3;endSize=3;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-20" target="WeysCJk-akAu1vtO7Xqt-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="170" />
+              <mxPoint x="140" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-18" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-20" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-19" value="&lt;h1&gt;Cargo Types&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Max 64&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" width="190" height="120" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-21" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-20" value="&lt;div&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=0;startSize=3;endArrow=classicThin;endFill=1;endSize=3;fontFamily=Comic Sans MS;fontSize=10;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-22" target="WeysCJk-akAu1vtO7Xqt-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-21" value="&lt;div&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-22" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-22" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-24" value="4:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-24" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-25" value="5:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-25" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-26" value="6:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-26" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-27" value="7:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-27" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-37" value="8:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-28" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-49" value="9:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-29" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-50" value="&lt;div&gt;10:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-30" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-51" value="11:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-31" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-52" value="12:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-32" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-53" value="13:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-33" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-54" value="14:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-34" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-55" value="15:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-35" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-59" value="16:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-36" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-60" value="17:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-37" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-61" value="18:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-38" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-62" value="19:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-39" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="960" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-63" value="20:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-40" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1040" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-64" value="21:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-41" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-65" value="22:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-42" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="960" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-66" value="23:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-43" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1040" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-67" value="24:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-44" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1120" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-68" value="25:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-45" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1120" width="120" height="40" as="geometry" />
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-69" value="26:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-70" value="27:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-71" value="28:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-72" value="29:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-73" value="30:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-74" value="31:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-75" value="32:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-76" value="33:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-77" value="34:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-78" value="35:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-79" value="36:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-80" value="37:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-81" value="38:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-82" value="39:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-83" value="40:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-84" value="41:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-85" value="42:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-86" value="43:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-87" value="44:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-88" value="45:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-89" value="46:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-90" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-91" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-92" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-93" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-94" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-95" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-96" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-97" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-98" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-99" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-100" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-101" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-102" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-103" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-104" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-105" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-106" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-108" value="&lt;h1 align=&quot;left&quot;&gt;Cargo Types&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="10" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-109" value="&lt;h1 align=&quot;left&quot;&gt;Industries&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="10" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-111" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-112" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-113" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-114" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-115" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-116" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-117" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-118" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-119" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-120" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-121" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-122" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-123" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-124" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-125" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-126" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-127" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-128" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-129" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-130" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-131" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-132" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-133" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-134" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-135" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-136" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-137" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-138" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-139" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-140" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-141" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-142" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="960" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-143" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-144" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-145" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-146" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-147" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-148" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-149" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-150" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-151" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-152" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-153" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-154" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-155" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-156" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-157" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-158" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-159" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-160" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-161" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-162" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-163" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-164" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-165" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-166" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-167" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-168" value="0: Passengers" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-169" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1: Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-170" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;2: Workers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-171" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-172" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-173" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-174" value="3: Consumer Goods" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-175" value="Construction Yard" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-176" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=10;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;jumpStyle=sharp;endArrow=classicThin;endFill=1;startSize=3;endSize=3;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-177" target="WeysCJk-akAu1vtO7Xqt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=classicThin;endFill=1;startSize=3;endSize=3;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-177" target="WeysCJk-akAu1vtO7Xqt-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="150" />
+              <mxPoint x="130" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=sharp;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=10;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=classicThin;endFill=1;startSize=3;endSize=3;" edge="1" parent="1" source="WeysCJk-akAu1vtO7Xqt-177" target="WeysCJk-akAu1vtO7Xqt-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="150" />
+              <mxPoint x="130" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-177" value="Houses" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-187" value="&lt;div&gt;&lt;b&gt;Basic Goods&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-188" value="&lt;div&gt;Metallurgy&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-189" value="Secondary Goods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-190" value="&lt;div&gt;Final Goods&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
