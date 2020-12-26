@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T20:19:54.551Z" agent="5.0 (X11)" etag="TbgrITKSgWjfTzD2TtuG" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-26T05:55:10.930Z" agent="5.0 (X11)" etag="tYXKcrssUmM-1F_Or4Ad" version="14.1.2" type="github">
   <diagram id="NNe8LNXQQ6C9CLvB5UxB" name="Page-1">
     <mxGraphModel dx="1392" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
         <mxCell id="WeysCJk-akAu1vtO7Xqt-53" value="&lt;div&gt;13: Lithium&lt;/div&gt;&lt;div&gt;(LITH)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="160" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-54" value="14: " style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-54" value="&lt;div&gt;14: Bauxite&lt;/div&gt;&lt;div&gt;(OALU)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="160" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-55" value="15:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-55" value="&lt;div&gt;15: Oil&lt;/div&gt;&lt;div&gt;(OIL_)&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="160" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WeysCJk-akAu1vtO7Xqt-59" value="16:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
         <mxCell id="WeysCJk-akAu1vtO7Xqt-68" value="&lt;div&gt;25: Sulfur&lt;/div&gt;&lt;div&gt;(SULF)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-69" value="26:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-69" value="&lt;div&gt;26: Natural Gas&lt;/div&gt;&lt;div&gt;(NGAS)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WeysCJk-akAu1vtO7Xqt-70" value="27:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -142,10 +142,10 @@
         <mxCell id="WeysCJk-akAu1vtO7Xqt-72" value="29:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="320" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-73" value="30:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-73" value="&lt;div&gt;30: Limestone&lt;/div&gt;&lt;div&gt;(LIME)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="320" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WeysCJk-akAu1vtO7Xqt-74" value="31:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="WeysCJk-akAu1vtO7Xqt-74" value="&lt;div&gt;31: Clay&lt;/div&gt;&lt;div&gt;(CLAY)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="320" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WeysCJk-akAu1vtO7Xqt-75" value="32:" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=10;fontFamily=Comic Sans MS;" parent="1" vertex="1">
